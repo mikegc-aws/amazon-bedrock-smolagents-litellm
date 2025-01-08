@@ -1,5 +1,7 @@
 # smolagents and LiteLLM Demos with Amazon Bedrock
 
+![Hugging Face + LiteLLM + Amazon Nova](thumb.png)
+
 This repository demonstrates how to use Hugging Face's smolagents and LiteLLM's model abstraction with Amazon Bedrock's language models. These examples show how to leverage these libraries for both agent-based interactions (Bedrock + smolagents + LiteLLM) and direct model access (Bedrock + LiteLLM).
 
 ## Prerequisites
